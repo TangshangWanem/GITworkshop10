@@ -1,0 +1,7 @@
+This is the first GIT workflow.
+
+
+contents:
+1. GIT add
+2. GIT commit
+3. GIT push>>>>
