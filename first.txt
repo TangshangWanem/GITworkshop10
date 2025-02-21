@@ -5,3 +5,11 @@ contents:
 1. GIT add
 2. GIT commit
 3. GIT push>>>>
+
+
+pushing code for the first time:
+git remote add origin <htto/ssl>
+git add .
+git commit -m "first message"
+git branch -M main
+git push -u origin main
